@@ -1,0 +1,5 @@
+{
+  "name": "Explosion-Proof Marking Tool",
+  "description": "A comprehensive tool to generate, scan (OCR), and decode ATEX, IECEx, and NEC markings for explosion-proof equipment. Features advanced image preprocessing for better OCR results.",
+  "requestFramePermissions": []
+}
